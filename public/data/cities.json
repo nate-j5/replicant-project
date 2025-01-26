@@ -1,0 +1,112 @@
+[
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "population": 964254,
+    "popular_sectors": [
+      {
+        "name": "Traditional Call Centers",
+        "economy_percentage": 75
+      },
+      {
+        "name": "AI Agents",
+        "economy_percentage": 5
+      },
+      {
+        "name": "No Coverage",
+        "economy_percentage": 20
+      }
+    ],
+    "accuracy_estimate": 96
+  },
+  {
+    "city": "San Francisco",
+    "state": "California",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "population": 873965,
+    "popular_sectors": [
+      {
+        "name": "Traditional Call Centers",
+        "economy_percentage": 40
+      },
+      {
+        "name": "AI Agents",
+        "economy_percentage": 50
+      },
+      {
+        "name": "No Coverage",
+        "economy_percentage": 10
+      }
+    ],
+    "accuracy_estimate": 95
+  },
+  {
+    "city": "London",
+    "state": "England",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "population": 9002488,
+    "popular_sectors": [
+      {
+        "name": "Traditional Call Centers",
+        "economy_percentage": 80
+      },
+      {
+        "name": "AI Agents",
+        "economy_percentage": 12
+      },
+      {
+        "name": "No Coverage",
+        "economy_percentage": 8
+      }
+    ],
+    "accuracy_estimate": 93
+  },
+  {
+    "city": "Buenos Aires",
+    "state": "Argentina",
+    "latitude": -34.6037,
+    "longitude": -58.3816,
+    "population": 2891082,
+    "popular_sectors": [
+      {
+        "name": "Traditional Call Centers",
+        "economy_percentage": 93
+      },
+      {
+        "name": "AI Agents",
+        "economy_percentage": 2
+      },
+      {
+        "name": "No Coverage",
+        "economy_percentage": 5
+      }
+    ],
+    "accuracy_estimate": 92
+  },
+  {
+    "city": "Toronto",
+    "state": "Canada",
+    "latitude": 43.65107,
+    "longitude": -79.347015,
+    "population": 2731571,
+    "popular_sectors": [
+      {
+        "name": "Traditional Call Centers",
+        "economy_percentage": 63
+      },
+      {
+        "name": "AI Agents",
+        "economy_percentage": 19
+      },
+      {
+        "name": "No Coverage",
+        "economy_percentage": 18
+      }
+    ],
+    "accuracy_estimate": 94
+  }
+]
