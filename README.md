@@ -2,7 +2,7 @@
 
 This concept project presents mock customer service metrics for a given market.
 
-Link: [Live Demo](https://github.com)  
+Link: [Live Demo](https://replicant-project.onrender.com/)  
 
 > Note: Please allow up to 30 seconds for the site to load - it's hosted for free. 
 

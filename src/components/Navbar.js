@@ -21,8 +21,8 @@ function Navbar() {
       </div>
       <div className="hidden md:flex space-x-6">
         <a
-          className="text-zinc-900 font-light text-xs hover:text-white transition"
-          href="https://github.com/nate-j5"
+          className="text-white font-light text-xs hover:text-slate-300 transition"
+          href="https://github.com/nate-j5/replicant-project"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="View Code"
